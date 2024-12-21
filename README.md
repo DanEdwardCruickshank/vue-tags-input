@@ -11,12 +11,12 @@ Forked from [@sipec/vue-tags-input](https://github.com/sipec/vue-tags-input) whi
 
 Vue 2
 ```
-npm i @vojtechlanka/vue-tags-input@^2
+npm i @DanEdwardCruickshank/vue-tags-input@^2
 ```
 
 Vue 3
 ```
-npm i @vojtechlanka/vue-tags-input@^3
+npm i @DanEdwardCruickshank/vue-tags-input@^3
 ```
 
 ## Usage with draggable
@@ -42,10 +42,10 @@ On drop `tag-order-changed` is emitted with array of tags in new order. Use this
 ```javascript
 <script>
 // Vue 2
-import VueTagsInput from '@vojtechlanka/vue-tags-input';
+import VueTagsInput from '@DanEdwardCruickshank/vue-tags-input';
 
 // Vue 3
-import { VueTagsInput } from '@vojtechlanka/vue-tags-input';
+import { VueTagsInput } from '@DanEdwardCruickshank/vue-tags-input';
 
 export default {
   components: {
